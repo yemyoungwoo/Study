@@ -7,7 +7,6 @@ public class Parent {
 		x = (int)(Math.random()*100);
 		y = (int)(Math.random()*100);
 	}
-	
 	public void subtract() {
 		System.out.println("parent subtract");
 		int z = x - y;
