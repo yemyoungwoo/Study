@@ -22,7 +22,6 @@ public class Parent {
 		Child c = new Child();
 		System.out.println("child add");
 		c.add();
-
 		
 	}
 }
